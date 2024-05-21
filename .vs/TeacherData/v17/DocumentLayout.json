@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET\\TeacherData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\teacherdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\teacherdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\dal\\teacherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\dal\\teacherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\models\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\models\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\models\\dbentities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\models\\dbentities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\migrations\\20240517171312_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\migrations\\20240517171312_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|d:\\asp .net\\teacherdata\\teacherdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0EFD020-AEED-48B1-9F74-F951281580A3}|TeacherData\\TeacherData.csproj|solutionrelative:teacherdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherData",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\TeacherData.csproj",
+              "RelativeDocumentMoniker": "TeacherData\\TeacherData.csproj",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\TeacherData.csproj",
+              "RelativeToolTip": "TeacherData\\TeacherData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T19:02:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TeacherData\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TeacherData\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T14:38:46.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\Views\\Teacher\\Create.cshtml",
+              "RelativeDocumentMoniker": "TeacherData\\Views\\Teacher\\Create.cshtml",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\Views\\Teacher\\Create.cshtml",
+              "RelativeToolTip": "TeacherData\\Views\\Teacher\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T19:28:35.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "TeacherData\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "TeacherData\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:18:05.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherDbContext.cs",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\DAL\\TeacherDbContext.cs",
+              "RelativeDocumentMoniker": "TeacherData\\DAL\\TeacherDbContext.cs",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\DAL\\TeacherDbContext.cs",
+              "RelativeToolTip": "TeacherData\\DAL\\TeacherDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:33:38.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherViewModel.cs",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\Models\\TeacherViewModel.cs",
+              "RelativeDocumentMoniker": "TeacherData\\Models\\TeacherViewModel.cs",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\Models\\TeacherViewModel.cs",
+              "RelativeToolTip": "TeacherData\\Models\\TeacherViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:24:17.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeacherData\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "TeacherData\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T17:28:18.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TeacherData\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TeacherData\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:24:44.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\Models\\DBEntities\\Teacher.cs",
+              "RelativeDocumentMoniker": "TeacherData\\Models\\DBEntities\\Teacher.cs",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\Models\\DBEntities\\Teacher.cs",
+              "RelativeToolTip": "TeacherData\\Models\\DBEntities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:27:28.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240517171312_initial.cs",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\Migrations\\20240517171312_initial.cs",
+              "RelativeDocumentMoniker": "TeacherData\\Migrations\\20240517171312_initial.cs",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\Migrations\\20240517171312_initial.cs",
+              "RelativeToolTip": "TeacherData\\Migrations\\20240517171312_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:13:13.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\Program.cs",
+              "RelativeDocumentMoniker": "TeacherData\\Program.cs",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\Program.cs",
+              "RelativeToolTip": "TeacherData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:06:06.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP .NET\\TeacherData\\TeacherData\\appsettings.json",
+              "RelativeDocumentMoniker": "TeacherData\\appsettings.json",
+              "ToolTip": "D:\\ASP .NET\\TeacherData\\TeacherData\\appsettings.json",
+              "RelativeToolTip": "TeacherData\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T16:55:36.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

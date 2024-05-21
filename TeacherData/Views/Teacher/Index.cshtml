@@ -1,0 +1,64 @@
+﻿@model List<TeacherData.Models.TeacherViewModel>
+
+@{
+    ViewData["Title"] = "Teacher Details";
+   
+}
+<h3>@ViewData["Title"]</h3>
+<hr />
+
+
+<form>
+    <button asp-action="Create" asp-controller="Teacher" class="btn btn-primary mb-3"> Creaate Teacher </button>
+    <hr />
+
+    <table class="table table-responsive table-hover table-bordered">
+        <thead>
+            <tr class="table-active">
+                <th>ID</th>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Joining Date</th>
+                <th>E-mail</th>
+                <th>Phone</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var teacher in Model)
+                {
+                    <tr>
+                        <td>@teacher.Id</td>
+                        <td>@teacher.FullName</td>
+                        <td>@teacher.Department</td>
+                        <td>@teacher.JoinDate</td>
+                        <td>@teacher.Email</td>
+                        <td>@teacher.Phone</td>
+                        <td>
+                            <div class="btn-group btn-group-sm">
+                                <a asp-controller="Teacher" asp-action="Edit" asp-route-id="@teacher.Id" class="btn btn-primary " > Edit </a>
+                                <a asp-controller="Teacher" asp-action="Delete" asp-route-id="@teacher.Id" class="btn btn-danger"> Delete </a>
+                            </div>
+                        </td>
+
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6">
+                        <div>
+                            No Employee available at this moment !
+                        </div>
+                    </td>
+                </tr>
+
+            }
+
+        </tbody>
+
+    </table>
+</form>
